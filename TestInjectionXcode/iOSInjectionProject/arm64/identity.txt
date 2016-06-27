@@ -1,0 +1,2 @@
+/Users/mac/Library/Developer/Xcode/DerivedData/TestInjectionXcode-bnolvnilaobmrohkuguzrxclvlmn/Build/Products/Debug-iphoneos/TestInjectionXcode.app
+iPhone Developer: donganyuan1010@gmail.com (XM5UMEA3WK)
